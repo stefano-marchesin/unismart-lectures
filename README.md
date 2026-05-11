@@ -20,7 +20,7 @@ Companion to the lecture *"Advanced Data Analysis & Visualization for AI Outputs
 | 3 | Dimensionality reduction | PCA, t-SNE, UMAP side-by-side on the Digits dataset; scree plot |
 | 4 | Distribution shift detection | Two-sample KS test with CDF visualization |
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/data_analysis_visualization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefano-marchesin/unismart-lectures/blob/main/data_analysis_visualization.ipynb)
 
 ---
 
@@ -35,7 +35,7 @@ Companion to a lecture on AI applications in environmental monitoring and resour
 | 3 | Geographic bias | Train on Region A (temperate), evaluate on Region B (semi-arid); transfer error analysis |
 | 4 | Anomaly detection | Isolation Forest on an environmental sensor stream; precision/recall trade-off via `contamination` |
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/ai_ml_sustainability.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefano-marchesin/unismart-lectures/blob/main/ai_ml_sustainability.ipynb)
 
 ---
 
